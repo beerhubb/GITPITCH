@@ -4,13 +4,15 @@
 
 ## Add Some Slide Candy
 
-![IMAGE](assets/img/presentation.png)
+![IMAGE](https://pbs.twimg.com/media/DUYMyxcVoAAfXRk.jpg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
 @snap[west span-50]
+
 ## Customize the Layout
+
 @snapend
 
 @snap[east span-50]
@@ -25,17 +27,20 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
+
 #### And start presenting...
+
 @snapend
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-white text-09]
+
 - You will be amazed
 - What you can achieve
-- *With a little imagination...*
+- _With a little imagination..._
 - And **GitPitch Markdown**
-@ulend
-@snapend
+  @ulend
+  @snapend
 
 @snap[east span-45]
 @img[shadow](assets/img/conference.png)
