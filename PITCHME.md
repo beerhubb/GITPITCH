@@ -1,6 +1,6 @@
 ## GITTEST
 
-![ ](https://photofleem.com/wp-content/uploads/2018/08/Artist.jpg)
+![red](https://photofleem.com/wp-content/uploads/2018/08/Artist.jpg)
 
 From June 2019, the theme template is activated by default for all slide decks that have not explicitly activated one of the old deprecated themes
 
