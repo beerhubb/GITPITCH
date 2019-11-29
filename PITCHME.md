@@ -1,35 +1,6 @@
-﻿@title[Cover]
+# GITTEST
 
-@snap[north-west byline] Test
-# ประเทศไทยน่าอยู่อย่างไร
+![ ](https://photofleem.com/wp-content/uploads/2018/08/Artist.jpg)
 
----
-## ประเทศไทยน่าอยู่จริงๆนะ
-
-ที่@color[yellow](ประเทศไทย)น่าอยู่น่าจะเป็นเพราะอาหารอร่อยกับสถานที่ท่องเที่ยวและเมืองโบราณมั้งครับแต่!ก็ยังมีสิ่งที่ทำให้ประเทศไทยไม่น่าอยู่ก็มีเยอะนะครับแต่จะไม่พูดถึงแล้วกันครับ
----
-### 1. อาหารอร่อย
-![](https://mpics.mgronline.com/pics/Images/562000009111301.JPEG)
-
-ดูสิครับมันน่าอร่อยมากเลยแต่ละรูปที่เห็นประเทศไทยน่าอยู่จริงๆ
----
-###   2. สถานที่ท่องเที่ยว
-![](https://travel.mthai.com/app/uploads/2014/12/good.jpg)
-
-สถานที่แต่ละที่มีแต่ที่สวยๆทั้งนั้นเลยประเทศไทยน่าอยู่จริงๆ
----
-###    3. เมืองโบราณ
-![](https://s.isanook.com/tr/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL3RyLzAvdWQvMjgzLzE0MTU4OTEvdGc0Zy5qcGc=.jpg)
-
-เมืองโบราณเป็นที่ๆน่าดึงดูดคนมาดูจริงๆเลยครับสวยงามมากประเทศไทยน่าอยู่จริงๆมันน่าอยู่จริงๆแหละครับ
----
-## คำถาม
-
-### คนไทยเกลียดอะไรมากที่สุด
-    1. ประยุทธ์
-    2. ปลาพะยูน
-    3. อากาศร้อน
-    
-
-
+From June 2019, the theme template is activated by default for all slide decks that have not explicitly activated one of the old deprecated themes. The theme template embodies best practices based on what has been learned over the past few years of real-world use by the GitPitch community
 
