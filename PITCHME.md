@@ -1,6 +1,6 @@
 ---?image=https://lifestyle.campus-star.com/app/uploads/2017/10/black-wallpaper08.jpeg
 
-### @color[red](Van Helsing)
+### @color[White](Van Helsing)
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/WfSqZVGCCyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
