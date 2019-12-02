@@ -20,3 +20,19 @@ Slide Decks<br>for Developers
 - Cross Platform
 @ulend
 @snapend
+
+---
+
+@ul
+- Markdown
+    1. GFM
+    1. Widgets
+- Git Native
+    1. GitHub
+    1. GitLab
+    1. Bitbucket
+- Cross Platform
+    1. Linux
+    1. MacOS
+    1. Windows 10
+@ulend
