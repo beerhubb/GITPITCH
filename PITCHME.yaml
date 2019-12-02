@@ -1,18 +1,8 @@
-# Layout
-layout : center
 
-# Look-and-Feel
-logo : assets/images/logo.png
-theme : night
-theme-override : assets/css/PITCHME.css
-highlight : ir-black
+ul.striped-list-items {
+  color: #001F3F;
+}
 
-# Behavior
-transition : none
-published : true
-
-# Plugins
-charts : true
-mathjax : TeX-AMS_HTML-full
-
-# image
+ul.striped-list-items > li:nth-child(even){
+  color: white;
+}
