@@ -1,6 +1,6 @@
 ## GITTEST
 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/2lpTgHQdbIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube.com/embed/2lpTgHQdbIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From June 2019, the theme template is activated by default for all slide decks that have not explicitly activated one of the old deprecated themes
 
