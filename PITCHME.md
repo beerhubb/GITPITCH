@@ -1,47 +1,15 @@
-# Let's Get Started
+## GITTEST
+
+<iframe width="956" height="538" src="https://www.youtube.com/embed/2lpTgHQdbIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+From June 2019, the theme template is activated by default for all slide decks that have not explicitly activated one of the old deprecated themes
 
 ---
 
-## Add Some Slide Candy
+![ ](https://photofleem.com/wp-content/uploads/2018/08/Artist.jpg)
 
-![IMAGE](https://pbs.twimg.com/media/DUYMyxcVoAAfXRk.jpg)
+From June 2019, the theme template is activated by default for all slide decks that have not explicitly activated one of the old deprecated themes
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+---
 
-@snap[west span-50]
-
-## Customize the Layout
-
-@snapend
-
-@snap[east span-50]
-![IMAGE](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
-@title[Add A Little Imagination]
-
-@snap[north-west h4-white]
-
-#### And start presenting...
-
-@snapend
-
-@snap[west span-55]
-@ul[list-spaced-bullets text-white text-09]
-
-- You will be amazed
-- What you can achieve
-- _With a little imagination..._
-- And **GitPitch Markdown**
-  @ulend
-  @snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+ที่@color[yellow](ประเทศไทย)น่าอยู่น่าจะเป็นเพราะอาหารอร่อยกับสถานที่ท่องเที่ยวและเมืองโบราณมั้งครับแต่!ก็ยังมีสิ่งที่ทำให้ประเทศไทยไม่น่าอยู่ก็มีเยอะนะครับแต่จะไม่พูดถึงแล้วกันครับ
