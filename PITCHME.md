@@ -1,4 +1,4 @@
----?image=https://a-static.besthdwallpaper.com/asus-rog-saathaarnrath-gamers-olok-wx-ll-pepexr-17034_L.jpg
+---?image=https://www.meme-arsenal.com/memes/a10c49c7ae9d1916773166c94161f1ba.jpg
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/2lpTgHQdbIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
