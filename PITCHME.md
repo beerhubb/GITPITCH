@@ -1,6 +1,6 @@
 ---?image=https://lifestyle.campus-star.com/app/uploads/2017/10/black-wallpaper08.jpeg
 
-@snap[west span-100 font-montserrat]
+@snap[north span-100 font-montserrat]
 
 ### @color[yellow](ไฮไลท์พรีเมียร์ลีก)
 
