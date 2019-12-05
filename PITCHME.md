@@ -1,6 +1,6 @@
 ---?image=https://lifestyle.campus-star.com/app/uploads/2017/10/black-wallpaper08.jpeg
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/G_6BryQivJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="400" src="https://www.youtube.com/embed/G_6BryQivJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 @snap[south span-100 font-montserrat]
 ### @color[yellow](ไฮไลท์พรีเมียร์ลีก)
@@ -58,12 +58,12 @@
 - [ ] Contact the media
       <br>
 
-```
-    for( ; ;)
-    {
-        //** **//
-    }
-```
+        ```
+            for( ; ;)
+            {
+                //** **//
+            }
+        ```
 
 ---
 
@@ -75,7 +75,7 @@
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
-[Heading IDs](#Heading-level-1)
+[Heading IDs](#Heading-level-2)
 
 ---
 
