@@ -8,8 +8,4 @@ highlight : ir-black
 transition : none
 published : true
 
-# Plugins
-charts : true
-mathjax : TeX-AMS_HTML-full
-
 # image
