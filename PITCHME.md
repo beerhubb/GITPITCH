@@ -2,36 +2,35 @@
 
 ### @color[Silver](Van Helsing)
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/WfSqZVGCCyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/G_6BryQivJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 @snap[west span-45 text-center]
-Slide Decks<br>for Developers
+![](https://s359.kapook.com/pagebuilder/0b0a53cf-95d7-4eb9-a646-9d7ead0075e5.jpg)
 @snapend
 
 @snap[east span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
+
 - Markdown
 - Modular
 - Git Native
 - Speaker Ready
 - Cross Platform
-@ulend
-@snapend
+  @ulend
+  @snapend
 
 ---
 
 @ul
+
 - Markdown
-    1. GFM
-    1. Widgets
+  1. GFM
+  1. Widgets
 - Git Native
-    1. GitHub
-    1. GitLab
-    1. Bitbucket
-- Cross Platform
-    1. Linux
-    1. MacOS
-    1. Windows 10
-@ulend
+  1. GitHub
+  1. GitLab
+  1. Bitbucket
+- Cross Platform 1. Linux 1. MacOS 1. Windows 10
+  @ulend
