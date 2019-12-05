@@ -12,23 +12,17 @@
 ![](https://s359.kapook.com/pagebuilder/0b0a53cf-95d7-4eb9-a646-9d7ead0075e5.jpg)
 @snapend
 
-@snap[east span-55 text-center]
 
 @ul
 
-- หัวข้อ
-  1. GFM
-  1. Widgets
-- Git Native
-  1. GitHub
-  1. GitLab
-  1. Bitbucket
-- Cross Platform
-  1. Linux
-  1. MacOS
-  1. Windows 10
-     @ulend
-  @snapend
+- รายละเอียด 1
+  1. asd
+  1. asd
+- รายละเอียด 2
+- รายละเอียด 3
+- รายละเอียด 4
+- รายละเอียด 5
+  @ulend
 
 ---
 
