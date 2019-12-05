@@ -1,6 +1,4 @@
-ul.striped-list-items {
+ul.striped-list-items 
+{
   color: #001F3F;
-}
-ul.striped-list-items > li:nth-child(even){
-  color: white;
 }
