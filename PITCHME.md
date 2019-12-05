@@ -54,9 +54,10 @@
 
 ---
 
-## ~~ตัวอย่างการใช้โค้ด~~
-
+### ~~ตัวอย่างการใช้โค้ด~~
+@snap[east span-55]
 #### C#
+@snapend
 
 ```C#
     for(int i = 1; i<10; i++)
@@ -68,29 +69,33 @@
 #### json
 
 ```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+    {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25
+    }
 ```
 
 #### php
 
 ```php
-<?php
-    echo "Hello World!";
-?>
+    <?php
+        echo "Hello World!";
+    ?>
 ```
 
 ---
 
-## Hello
+### demo
+
 1. demo1
+
 > Dorothy followed her through many of the beautiful rooms in her castle.
+
 1. demo2
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
+
 1. demo3
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
