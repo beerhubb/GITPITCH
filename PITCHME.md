@@ -119,7 +119,7 @@
 1.  Update the title to match the name of your website.
 
 ---
-@snap[west span-45 text-center]
+@snap[north span-40]
 ## หัวข้อต่างๆ
 @snapend
 
