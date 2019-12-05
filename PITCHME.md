@@ -13,13 +13,13 @@
 @snapend
 
 @snap[east span-55 text-center]
-@ul[list-square-bullets striped-list-items](false)
+@ul[list-square-bullets striped-list-items](true)
 
-- Markdown
-- Modular
-- Git Native
-- Speaker Ready
-- Cross Platform
+- รายละเอียด 1
+- รายละเอียด 2
+- รายละเอียด 3
+- รายละเอียด 4
+- รายละเอียด 5
   @ulend
   @snapend
 
@@ -27,7 +27,7 @@
 
 @ul
 
-- Markdown
+- หัวข้อ
   1. GFM
   1. Widgets
 - Git Native
