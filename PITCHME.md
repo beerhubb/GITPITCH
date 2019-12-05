@@ -119,6 +119,8 @@
 1.  Update the title to match the name of your website.
 
 ---
-
+@snap[west span-45 text-center]
 ## หัวข้อต่างๆ
+@snapend
+
 + [Heading IDs](#Heading-level-2)
