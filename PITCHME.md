@@ -47,15 +47,15 @@
 
 ### Heading level 2
 
-| Syntax    | Description |  Syntax   | Description |
+| หัวข้อ 1    | หัวข้อ 2 |  หัวข้อ 3   | หัวข้อ 4 |
 | :-------- | :---------: | :-------: | ----------: |
-| Header    |    Title    |  Header   |       Title |
-| Paragraph |    Text     | Paragraph |        Text |
+| รายละเอียด    |    รายละเอียด    |  รายละเอียด   |       รายละเอียด |
+| รายละเอียด |    รายละเอียด     | รายละเอียด |        รายละเอียด |
 
 ---
 
-@snap[north-west span-50]
-##### C#
+### ตัวอย่างการใช้โค้ด
+#### C#
 
 ```C#
     for(int i = 1; i<10; i++)
@@ -64,9 +64,6 @@
     }
 ```
 
-@snapend
-
-@snap[north-west span-30]
 #### json
 
 ```json
@@ -76,9 +73,7 @@
     "age": 25
     }
 ```
-@snapend
 
-@snap[north-west span-10]
 #### php
 
 ```php
@@ -86,7 +81,6 @@
         echo "Hello World!";
     ?>
 ```
-@snapend
 
 ---
 
@@ -107,7 +101,7 @@
 ---
 
 1.  Open the file.
-1.  Find the following code block on line 21:
+1.  HTML
 
             <!DOCTYPE html>
             <html lang="en">
@@ -127,8 +121,4 @@
 ---
 
 ## หัวข้อต่างๆ
-
-+ [ไฮไลท์พรีเมียร์ลีก](#help)
-- [หัวข้อ](#หัวข้อ)
-* [Heading IDs](#Heading-level-2)
 + [Heading IDs](#Heading-level-2)
