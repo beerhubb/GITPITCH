@@ -2,7 +2,7 @@
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/G_6BryQivJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-@snap[south span-100 text-yellow]
+@snap[south span-100 font-montserrat text-yellow]
 ### ไฮไลท์พรีเมียร์ลีก
 @snapend
 
