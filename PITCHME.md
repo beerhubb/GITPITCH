@@ -13,9 +13,12 @@
 @snapend
 
 @snap[east span-55 text-center]
+
 @ul
 
 - รายละเอียด 1
+  1. asd
+  1. asd
 - รายละเอียด 2
 - รายละเอียด 3
 - รายละเอียด 4
