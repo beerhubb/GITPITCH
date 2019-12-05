@@ -13,7 +13,7 @@
 @snapend
 
 @snap[east span-55 text-center]
-@ul[list-square-bullets striped-list-items](true)
+@ul
 
 - รายละเอียด 1
 - รายละเอียด 2
