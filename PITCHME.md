@@ -16,7 +16,7 @@
 
 @snap[east span-55]
 
-@ul
+@ul[center]
 
 ### หัวข้อ
 
