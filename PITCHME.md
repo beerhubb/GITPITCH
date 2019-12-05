@@ -1,12 +1,12 @@
 ---?image=https://lifestyle.campus-star.com/app/uploads/2017/10/black-wallpaper08.jpeg
 
-<iframe width="750" height="400" src="https://www.youtube.com/embed/G_6BryQivJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-@snap[south span-100 font-montserrat]
+@snap[west span-100 font-montserrat]
 
 ### @color[yellow](ไฮไลท์พรีเมียร์ลีก)
 
 @snapend
+
+<iframe width="750" height="400" src="https://www.youtube.com/embed/G_6BryQivJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -17,7 +17,9 @@
 @snap[east span-55]
 
 @ul @color[yellow]
+
 ### หัวข้อ
+
 - รายละเอียด 1
 - รายละเอียด 2
 - รายละเอียด 3
@@ -47,15 +49,16 @@
 
 ### Heading level 2
 
-| หัวข้อ 1    | หัวข้อ 2 |  หัวข้อ 3   | หัวข้อ 4 |
-| :-------- | :---------: | :-------: | ----------: |
-| รายละเอียด    |    รายละเอียด    |  รายละเอียด   |       รายละเอียด |
-| รายละเอียด |    รายละเอียด     | รายละเอียด |        รายละเอียด |
+| หัวข้อ 1   |  หัวข้อ 2  |  หัวข้อ 3  |   หัวข้อ 4 |
+| :--------- | :--------: | :--------: | ---------: |
+| รายละเอียด | รายละเอียด | รายละเอียด | รายละเอียด |
+| รายละเอียด | รายละเอียด | รายละเอียด | รายละเอียด |
 
 ---
 
 ### ตัวอย่างการใช้โค้ด
-#### C#
+
+#### C
 
 ```C#
     for(int i = 1; i<10; i++)
@@ -67,11 +70,11 @@
 #### json
 
 ```json
-    {
-    "firstName": "John",
-    "lastName": "Smith",
-    "age": 25
-    }
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
 ```
 
 #### php
@@ -119,11 +122,16 @@
 1.  Update the title to match the name of your website.
 
 ---
-@snap[north span-40]
-## หัวข้อต่างๆ
-+ [Heading IDs](#Heading-level-2)
-- [Heading IDs](#Heading-level-2)
-* [Heading IDs](#Heading-level-2)
-+ [Heading IDs](#Heading-level-2)
-@snapend
 
+@snap[north span-40]
+
+## หัวข้อต่างๆ
+
+- [Heading IDs](#Heading-level-2)
+
+* [Heading IDs](#Heading-level-2)
+
+- [Heading IDs](#Heading-level-2)
+
+* [Heading IDs](#Heading-level-2)
+  @snapend
