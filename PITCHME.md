@@ -54,8 +54,7 @@
 
 ---
 
-### ~~ตัวอย่างการใช้โค้ด~~
-@snap[north-west span-60]
+@snap[north-west span-50]
 ##### C#
 
 ```C#
@@ -64,10 +63,10 @@
         //** **//
     }
 ```
+
 @snapend
 
-
-
+@snap[north-west span-30]
 #### json
 
 ```json
@@ -77,7 +76,9 @@
     "age": 25
     }
 ```
+@snapend
 
+@snap[north-west span-10]
 #### php
 
 ```php
@@ -85,6 +86,7 @@
         echo "Hello World!";
     ?>
 ```
+@snapend
 
 ---
 
