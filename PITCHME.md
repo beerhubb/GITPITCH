@@ -55,9 +55,8 @@
 ---
 
 ### ~~ตัวอย่างการใช้โค้ด~~
-@snap[east span-55]
+@snap[north-west span-40]
 #### C#
-@snapend
 
 ```C#
     for(int i = 1; i<10; i++)
@@ -65,6 +64,9 @@
         //** **//
     }
 ```
+@snapend
+
+
 
 #### json
 
