@@ -6,7 +6,7 @@
 ### @color[yellow](ไฮไลท์พรีเมียร์ลีก)
 @snapend
 
----
+---?image=https://lifestyle.campus-star.com/app/uploads/2017/10/black-wallpaper08.jpeg
 
 @snap[west span-45 text-center]
 ![](https://s359.kapook.com/pagebuilder/0b0a53cf-95d7-4eb9-a646-9d7ead0075e5.jpg)
@@ -24,7 +24,7 @@
   @ulend
   @snapend
 
----
+---?image=https://lifestyle.campus-star.com/app/uploads/2017/10/black-wallpaper08.jpeg
 
 @ul
 
@@ -52,18 +52,14 @@
 
 ---
 
-~~The world is flat.~~ We now know that the world is round
+~~ตัวอย่างการใช้โค้ด~~ We now know that the world is round
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-        ```
-            for( ; ;)
-            {
-                //** **//
-            }
-        ```
+```C#
+    for(int i = 1; i<10; i++)
+    {
+        //** **//
+    }
+```
 
 ---
 
@@ -96,3 +92,7 @@
             </html>
 
 1.  Update the title to match the name of your website.
+
+---
+
+## หัวข้อต่างๆ
