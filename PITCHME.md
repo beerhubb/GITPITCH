@@ -14,7 +14,7 @@
 
 @snap[east span-55]
 
-@ul
+@ul @color[yellow]
 
 - รายละเอียด 1
 - รายละเอียด 2
