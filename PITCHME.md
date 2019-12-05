@@ -4,8 +4,6 @@
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/WfSqZVGCCyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### @color[Yellow](คลิป VDO นี้มีการสปอยเนื้อหาภาพยนตร์เรื่อง Van Helsing นักล่าล้างเผ่าพันธุ์ปีศาจ)
-
 ---
 
 @snap[west span-45 text-center]
