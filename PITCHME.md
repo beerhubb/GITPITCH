@@ -40,9 +40,9 @@
 
 ---
 
-# Heading level 1
+## Heading level 1
 
-## Heading level 2
+### Heading level 2
 
 | Syntax    | Description | Syntax    | Description |
 | :-------  | :---------: | :-------: | ----------: |
@@ -56,19 +56,21 @@
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-
+<br>
 ```
-for( ; ;)
-{
-    //** **//
-}
+    for( ; ;)
+    {
+        //** **//
+    }
 ```
 
 ---
 
 ## Hello
 > Dorothy followed her through many of the beautiful rooms in her castle.
+
 > Dorothy followed her through many of the beautiful rooms in her castle.
+
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 [Heading IDs](#Heading-level-1)
@@ -76,10 +78,19 @@ for( ; ;)
 ---
 
 1.  Open the file.
-2.  Find the following code block on line 21:
+1.  Find the following code block on line 21:
 
-        <head>
-        <title>Test</title>
-        </head>
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <meta http-equiv="X-UA-Compatible" content="ie=edge">
+                <title>Document</title>
+            </head>
+            <body>
+                
+            </body>
+            </html>
 
-3.  Update the title to match the name of your website.
+1.  Update the title to match the name of your website.
