@@ -55,8 +55,8 @@
 ---
 
 ### ~~ตัวอย่างการใช้โค้ด~~
-@snap[north-west span-40]
-#### C#
+@snap[north-west span-60]
+##### C#
 
 ```C#
     for(int i = 1; i<10; i++)
