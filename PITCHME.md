@@ -127,10 +127,4 @@
 ## หัวข้อต่างๆ
 
 - [Heading IDs](#Heading-level-2)
-
-* [Heading IDs](#Heading-level-2)
-
-- [Heading IDs](#Heading-level-2)
-
-* [Heading IDs](#Heading-level-2)
   @snapend
