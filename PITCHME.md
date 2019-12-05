@@ -2,7 +2,9 @@
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/G_6BryQivJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### @color[red](ไฮไลท์พรีเมียร์ลีก)
+@snap[south span-100 font-montserrat text-yellow]
+ไฮไลท์พรีเมียร์ลีก
+@snapend
 
 ---
 
@@ -44,10 +46,10 @@
 
 ### Heading level 2
 
-| Syntax    | Description | Syntax    | Description |
-| :-------  | :---------: | :-------: | ----------: |
-| Header    | Title       | Header    | Title       |
-| Paragraph | Text        | Paragraph | Text        |
+| Syntax    | Description |  Syntax   | Description |
+| :-------- | :---------: | :-------: | ----------: |
+| Header    |    Title    |  Header   |       Title |
+| Paragraph |    Text     | Paragraph |        Text |
 
 ---
 
@@ -56,7 +58,8 @@
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-<br>
+      <br>
+
 ```
     for( ; ;)
     {
@@ -67,6 +70,7 @@
 ---
 
 ## Hello
+
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
@@ -89,7 +93,7 @@
                 <title>Document</title>
             </head>
             <body>
-                
+
             </body>
             </html>
 
