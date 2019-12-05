@@ -98,10 +98,6 @@
 
    > Dorothy followed her through many of the beautiful rooms in her castle.
 
-1. demo3
-
-   > Dorothy followed her through many of the beautiful rooms in her castle.
-
 ---
 
 1.  Open the file.
