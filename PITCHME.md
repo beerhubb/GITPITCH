@@ -20,13 +20,14 @@
 
 ### หัวข้อ
 
-- รายละเอียด 1
-- รายละเอียด 2
-- รายละเอียด 3
-- รายละเอียด 4
-- รายละเอียด 5
-  @ulend
-  @snapend
+    - รายละเอียด 1
+    - รายละเอียด 2
+    - รายละเอียด 3
+    - รายละเอียด 4
+    - รายละเอียด 5
+
+@ulend
+@snapend
 
 ---
 
@@ -58,32 +59,32 @@
 
 ### ตัวอย่างการใช้โค้ด
 
-#### C
+1. #### C
 
-```C#
-    for(int i = 1; i<10; i++)
-    {
-        //** **//
-    }
-```
+   ```C#
+       for(int i = 1; i<10; i++)
+       {
+           //** **//
+       }
+   ```
 
-#### json
+1. #### json
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+   ```json
+   {
+     "firstName": "John",
+     "lastName": "Smith",
+     "age": 25
+   }
+   ```
 
-#### php
+1. #### php
 
-```php
-    <?php
-        echo "Hello World!";
-    ?>
-```
+   ```php
+       <?php
+           echo "Hello World!";
+       ?>
+   ```
 
 ---
 
@@ -91,15 +92,15 @@
 
 1. demo1
 
-    > Dorothy followed her through many of the beautiful rooms in her castle.
+   > Dorothy followed her through many of the beautiful rooms in her castle.
 
 1. demo2
 
-    > Dorothy followed her through many of the beautiful rooms in her castle.
+   > Dorothy followed her through many of the beautiful rooms in her castle.
 
 1. demo3
 
-    > Dorothy followed her through many of the beautiful rooms in her castle.
+   > Dorothy followed her through many of the beautiful rooms in her castle.
 
 ---
 
@@ -118,8 +119,6 @@
 
             </body>
             </html>
-
-1.  Update the title to match the name of your website.
 
 ---
 
