@@ -4,3 +4,6 @@ ul.striped-list-items {
 ul.striped-list-items > li:nth-child(even){
   color: white;
 }
+theme : night
+theme-override : assets/css/PITCHME.css
+highlight : ir-black
