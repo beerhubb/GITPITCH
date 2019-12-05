@@ -3,10 +3,12 @@
 <iframe width="750" height="400" src="https://www.youtube.com/embed/G_6BryQivJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 @snap[south span-100 font-montserrat]
+
 ### @color[yellow](ไฮไลท์พรีเมียร์ลีก)
+
 @snapend
 
----?image=https://lifestyle.campus-star.com/app/uploads/2017/10/black-wallpaper08.jpeg
+---
 
 @snap[west span-45 text-center]
 ![](https://s359.kapook.com/pagebuilder/0b0a53cf-95d7-4eb9-a646-9d7ead0075e5.jpg)
@@ -15,7 +17,7 @@
 @snap[east span-55]
 
 @ul @color[yellow]
-
+### หัวข้อ
 - รายละเอียด 1
 - รายละเอียด 2
 - รายละเอียด 3
@@ -24,11 +26,11 @@
   @ulend
   @snapend
 
----?image=https://lifestyle.campus-star.com/app/uploads/2017/10/black-wallpaper08.jpeg
+---
 
 @ul
 
-- หัวข้อ 1 
+- หัวข้อ 1
   1. รายละเอียด
   1. รายละเอียด
 - หัวข้อ 2
@@ -52,7 +54,9 @@
 
 ---
 
-~~ตัวอย่างการใช้โค้ด~~ We now know that the world is round
+## ~~ตัวอย่างการใช้โค้ด~~
+
+#### C#
 
 ```C#
     for(int i = 1; i<10; i++)
@@ -61,17 +65,35 @@
     }
 ```
 
+#### json
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+#### php
+
+```php
+<?php
+    echo "Hello World!";
+?>
+```
+
 ---
 
 ## Hello
+1. demo1
+> Dorothy followed her through many of the beautiful rooms in her castle.
+1. demo2
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
+1. demo3
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
-
-[Heading IDs](#Heading-level-2)
 
 ---
 
@@ -96,3 +118,8 @@
 ---
 
 ## หัวข้อต่างๆ
+
++ [ไฮไลท์พรีเมียร์ลีก](#help)
+- [หัวข้อ](#หัวข้อ)
+* [Heading IDs](#Heading-level-2)
++ [Heading IDs](#Heading-level-2)
