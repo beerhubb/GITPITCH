@@ -121,6 +121,9 @@
 ---
 @snap[north span-40]
 ## หัวข้อต่างๆ
++ [Heading IDs](#Heading-level-2)
+- [Heading IDs](#Heading-level-2)
+* [Heading IDs](#Heading-level-2)
++ [Heading IDs](#Heading-level-2)
 @snapend
 
-+ [Heading IDs](#Heading-level-2)
