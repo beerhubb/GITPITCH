@@ -3,9 +3,3 @@
 theme : night
 theme-override : assets/css/PITCHME.css
 highlight : ir-black
-
-# Behavior
-transition : none
-published : true
-
-# image
